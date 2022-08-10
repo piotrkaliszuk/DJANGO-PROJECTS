@@ -40,8 +40,8 @@ INSTALLED_APPS = [
 ]
 
 INSTALLED_APPS += [
-    'books'
-    'authors'
+    'books',
+    'authors',
 
 ]
 
