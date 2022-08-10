@@ -1,0 +1,20 @@
+[
+{
+    "model": "authors.authormodel",
+    "pk": 1,
+    "fields": {
+        "first_name": "Jan",
+        "secondary_name": "Kowalski",
+        "year_of_birdth": "1960-08-03"
+    }
+},
+{
+    "model": "authors.authormodel",
+    "pk": 2,
+    "fields": {
+        "first_name": "Jan",
+        "secondary_name": "Dzban",
+        "year_of_birdth": "2022-08-10"
+    }
+}
+]
