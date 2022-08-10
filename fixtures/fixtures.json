@@ -1,20 +1,20 @@
 [
 {
-    "model": "books.bookmodel",
+    "model": "dogs.dogsmodel",
     "pk": 1,
     "fields": {
-        "title": "Lalka",
-        "rok_wydania": 1963,
-        "opis": "Kultowa książka"
+        "name": "Fafik",
+        "breed": "Jamnik",
+        "year_of_birdth": "2000-05-13"
     }
 },
 {
-    "model": "books.bookmodel",
+    "model": "dogs.dogsmodel",
     "pk": 2,
     "fields": {
-        "title": "Balladyna",
-        "rok_wydania": 1937,
-        "opis": "Książka oparta na legendzie."
+        "name": "Pimpek",
+        "breed": "Maltańczyk",
+        "year_of_birdth": "2022-08-10"
     }
 }
 ]

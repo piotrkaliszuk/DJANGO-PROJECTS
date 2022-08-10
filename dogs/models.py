@@ -7,4 +7,4 @@ class DogsModel(models.Model):
     year_of_birdth = models.DateField(blank=False)
 
     def __str__(self) -> str:
-        return f'{self.name} '
+        return f'{self.name} {self.breed} {self.year_of_birdth}'
