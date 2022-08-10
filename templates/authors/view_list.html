@@ -8,5 +8,11 @@
 </head>
 <body>
     <h1> moja lista autorów</h1>
+
+    {% for author in authors%}
+    <li>    
+        {{ author }}
+    </li>
+    {% endfor %}
 </body>
 </html>
