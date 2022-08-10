@@ -1,5 +1,4 @@
 from django.shortcuts import render
-
 from authors.models import AuthorModel
 
 # Create your views here.
