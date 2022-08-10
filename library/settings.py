@@ -44,7 +44,7 @@ INSTALLED_APPS += [
     'books',
     'authors',
     'dogs',
-
+    'cats',
 ]
 
 MIDDLEWARE = [
