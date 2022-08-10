@@ -41,6 +41,8 @@ INSTALLED_APPS = [
 
 INSTALLED_APPS += [
     'books'
+    'authors'
+
 ]
 
 MIDDLEWARE = [
