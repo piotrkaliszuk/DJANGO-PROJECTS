@@ -1,20 +1,22 @@
 [
 {
-    "model": "dogs.dogsmodel",
+    "model": "cats.catsmodel",
     "pk": 1,
     "fields": {
-        "name": "Fafik",
-        "breed": "Jamnik",
-        "year_of_birdth": "2000-05-13"
+        "imie": "Suzi",
+        "rok_urodzenia": 2015,
+        "rasa": "Sfinxoid",
+        "opis": "Łysy koteł"
     }
 },
 {
-    "model": "dogs.dogsmodel",
+    "model": "cats.catsmodel",
     "pk": 2,
     "fields": {
-        "name": "Pimpek",
-        "breed": "Maltańczyk",
-        "year_of_birdth": "2022-08-10"
+        "imie": "Pączek",
+        "rok_urodzenia": 2019,
+        "rasa": "Maltańczyk",
+        "opis": "Biały prawie jak pies"
     }
 }
 ]
